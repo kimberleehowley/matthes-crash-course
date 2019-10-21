@@ -1,4 +1,4 @@
-# sweigart-crash-course
+# matthes-crash-course
 Tracking all of the exercises I complete as I make my way through Eric Matthes' book "Python Crash Course".
 
 ## Infinite skills
